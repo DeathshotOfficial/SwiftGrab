@@ -43,13 +43,12 @@ The extension connects your browser to SwiftGrab. Install the app first.
 | Browser | How |
 |---|---|
 | **Firefox** | Get it from Firefox Add-ons *(coming soon, in review)* |
-| **Microsoft Edge** | Get it from Edge Add-ons *(coming soon, in review)*. Until then, use the steps for Chrome. |
-| **Chrome, Brave, Opera and other Chromium browsers** | Load it from your PC, see below |
+| **Microsoft Edge, Chrome, Brave, Opera and other Chromium browsers** | Load it from your PC, see below |
 
-**Chrome / Brave / Edge, step by step**
+**Edge / Chrome / Brave, step by step**
 
-1. Open `chrome://extensions` (Brave: `brave://extensions`, Edge: `edge://extensions`).
-2. Turn on **Developer mode** (top right).
+1. Open `edge://extensions` (Chrome: `chrome://extensions`, Brave: `brave://extensions`).
+2. Turn on **Developer mode** (Edge: on the left; Chrome and Brave: top right).
 3. Click **Load unpacked** and choose the `extension` folder inside SwiftGrab's install folder.
    By default that's `%LOCALAPPDATA%\Programs\SwiftGrab\extension` (paste that into the folder box).
    The installer's last screen has an **Open folder** button for it.
