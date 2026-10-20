@@ -1,0 +1,23 @@
+SwiftGrab
+Copyright (c) 2026 DeathshotOfficial. All rights reserved.
+
+SwiftGrab (the desktop app, its installer and its browser extension) is free software in the sense of free of
+charge: you may download, install and use it, for personal or commercial purposes, at no cost.
+
+You may not, without written permission from the copyright holder:
+  - copy, modify, translate or create derivative works of SwiftGrab or any part of it;
+  - redistribute, sell, rent, sublicense or publish SwiftGrab or any part of it, including repackaged or
+    renamed versions;
+  - remove or change any copyright or ownership notice;
+  - decompile, disassemble or reverse engineer SwiftGrab, except where applicable law expressly permits it.
+
+Linking to the official download page (https://github.com/DeathshotOfficial/SwiftGrab/releases) is always fine.
+
+Third-party components keep their own licenses: yt-dlp (Unlicense), FFmpeg (LGPL/GPL, downloaded from its
+official builds when needed), MonoTorrent (MIT), Photino (Apache 2.0), and the .NET runtime (MIT).
+
+SWIFTGRAB IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH
+SWIFTGRAB OR ITS USE. YOU USE IT AT YOUR OWN RISK, AND YOU ARE RESPONSIBLE FOR RESPECTING THE TERMS OF THE
+WEBSITES YOU DOWNLOAD FROM AND THE RIGHTS OF CONTENT OWNERS.
