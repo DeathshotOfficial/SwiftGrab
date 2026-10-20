@@ -27,7 +27,7 @@ No account, no ads, no tracking. See the [privacy policy](PRIVACY.md).
 
 ## Install
 
-1. Download **SwiftGrab-Setup.exe** from the [latest release](https://github.com/DeathshotOfficial/SwiftGrab/releases/latest).
+1. Download **SwiftGrab-Setup-*version*.exe** (under **Assets**) from the [latest release](https://github.com/DeathshotOfficial/SwiftGrab/releases/latest).
 2. Open it. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**. That appears because
    SwiftGrab is new and not code-signed yet; it doesn't mean anything is wrong.
 3. Pick where to install (the default is fine) and click **Install**. No admin rights are needed.
